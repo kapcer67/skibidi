@@ -1,1 +1,5 @@
-
+img{width:450px;height:300px}
+img:hover{width: 337.5px; height: 225px; margin-left: 50px;transition: 0.5s;box-shadow: 5px 10px 10px rgb(107, 63, 33);}
+table{background-color: rgb(177, 138, 31);border: 5px rgb(95, 74, 21) solid;box-shadow: 10px 15px 15px black;}
+body{background-color: rgb(36, 71, 82);}
+h1{color:goldenrod}
